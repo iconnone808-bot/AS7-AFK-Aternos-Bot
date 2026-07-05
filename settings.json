@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "PLANETCRAFT-RVeQ.aternos.me:34879",
+    "port": 34879,
     "version": "",
     "try-creative": false
   },
